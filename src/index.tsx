@@ -206,7 +206,7 @@ const Header = () => {
   return (
     <div className="bg-gray-800 text-gray-300 w-full flex justify-between items-center py-3 px-12 shadow-xl">
       <Img
-        src="https://png2.cleanpng.com/sh/7d3b22513d541c5c0b484098a902dd9d/L0KzQYm3VsA1N5p0iZH0aYP2gLBuTgJmaZR5RdxqdnH2c8PwkQQuaZ9sjd5qcnr2Pbr2jvlkNZJ5h982NXK0RYXphcY6PGg5Tak3M0S6QYq7UcgyPWM9SaQ7M0S1RoGBUb5xdpg=/kisspng-react-javascript-angularjs-ionic-atom-5b154be6947457.3471941815281223426081.png"
+        src="https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/8575147831553750379-256.png"
         alt="React Logo"
         style={{ height: "32px", width: "32px" }}
       />

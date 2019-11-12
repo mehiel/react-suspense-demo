@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@types/react": "^16.9.11",
     "classnames": "2.2.6",
     "lodash": "4.17.15",
     "react": "experimental",
@@ -13,8 +14,8 @@
     "react-scripts": "3.0.1"
   },
   "devDependencies": {
-    "typescript": "3.3.3",
-    "flow-bin": "^0.68.0"
+    "flow-bin": "^0.68.0",
+    "typescript": "3.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
